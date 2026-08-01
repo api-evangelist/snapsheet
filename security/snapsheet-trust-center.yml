@@ -1,0 +1,19 @@
+generated: '2026-07-21'
+method: searched
+probe: false
+source: https://snapsheetclaims.com/products/integration-apis
+url: https://app.vanta.com/snapsheet.me/trust/u2ikl0spltsrtythdhr25
+platform: Vanta
+certifications: []
+notes: >-
+  Snapsheet publishes a Vanta-hosted Trust Center, linked from the corporate
+  site and the Integrations & APIs product page. The page is a client-side
+  (JavaScript) single-page app and Vanta's public document API requires
+  authentication, so the specific named certifications could not be extracted
+  without fabrication. The Trust Center existence and URL are verified; the
+  certification list is intentionally left empty rather than guessed.
+evidence:
+  - source: https://snapsheetclaims.com/products/integration-apis
+    kind: site-link
+  - source: https://snapsheetclaims.com
+    kind: site-link

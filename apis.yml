@@ -1,7 +1,27 @@
 aid: snapsheet
 name: Snapsheet
-description: Snapsheet is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Snapsheet is a cloud-based property & casualty (P&C) claims management platform
+  for insurance carriers, MGAs, and TPAs. It runs the full claims lifecycle with
+  no-code workflow configuration, intelligent automation, document management,
+  virtual vehicle appraisals, total-loss settlement, integrated claims payments,
+  and analytics. Snapsheet reports serving 170+ customers, including 16 of the top
+  20 P&C carriers, and processing more than 400 million API calls per month. It
+  exposes open APIs and webhooks to customers and partners for connecting policy,
+  billing, underwriting, and vendor systems, though API access is arranged through
+  its sales and partner channel rather than a public self-serve developer portal.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://snapsheetclaims.com/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/snapsheet/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Insurance
+- Claims
+- Claims Management
+- InsurTech
+- Property and Casualty
+- Payments
+- Workflow Automation
+- Analytics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +51,22 @@ maintainers:
 common:
 - type: Website
   url: https://snapsheetclaims.com
+- type: GitHubOrganization
+  url: https://github.com/snapsheet
+- type: Blog
+  url: https://snapsheetclaims.com/resources/blog
+- type: Support
+  url: https://snapsheetclaims.com/contact-us
+- type: PrivacyPolicy
+  url: https://snapsheetclaims.com/legal/privacy-policy
+- type: TrustCenter
+  url: https://app.vanta.com/snapsheet.me/trust/u2ikl0spltsrtythdhr25
+- type: DomainSecurity
+  url: security/snapsheet-domain-security.yml
+- type: LLMsTxt
+  url: llms/snapsheet-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

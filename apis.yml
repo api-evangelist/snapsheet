@@ -10,6 +10,17 @@ description: >-
   exposes open APIs and webhooks to customers and partners for connecting policy,
   billing, underwriting, and vendor systems, though API access is arranged through
   its sales and partner channel rather than a public self-serve developer portal.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

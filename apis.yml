@@ -51,7 +51,7 @@ tags:
 - Insurtech
 - Property and Casualty
 - Payments
-- Workflow-Automation
+- Workflow Automation
 - Analytics
 tags_raw:
 - Company
@@ -63,6 +63,7 @@ tags_raw:
 - Payments
 - Workflow Automation
 - Analytics
+- Workflow-Automation
 apis: []
 maintainers:
 - FN: Kin Lane
